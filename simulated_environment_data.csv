@@ -1,0 +1,21 @@
+appointment_start,appointment_end,appointment_type,provider,patient_age,no_show,appointment_scheduled_time,combined_text,actual_code,actual_scheduled_time
+2024-07-01 09:00:00,2024-07-01 09:30:00,followup,Dr. Johnson,53,0,2024-06-28 12:00:00,diabetes blood test,E11,2024-06-28 12:00:00
+2024-07-01 09:30:00,2024-07-01 10:00:00,emergency,Dr. Smith,70,0,2024-06-29 12:00:00,flu flu shot,J10,2024-06-29 12:00:00
+2024-07-01 10:00:00,2024-07-01 10:30:00,emergency,Dr. Johnson,46,1,2024-06-30 12:00:00,hypertension blood pressure measurement,I10,2024-06-30 12:00:00
+2024-07-01 10:30:00,2024-07-01 11:00:00,emergency,Dr. Lee,50,1,2024-06-28 12:00:00,asthma inhaler prescription,J45,2024-06-28 12:00:00
+2024-07-01 11:00:00,2024-07-01 11:30:00,emergency,Dr. Lee,42,0,2024-06-29 12:00:00,migraine pain relief,G43,2024-06-29 12:00:00
+2024-07-01 11:30:00,2024-07-01 12:00:00,followup,Dr. Johnson,61,1,2024-06-30 12:00:00,diabetes blood test,E11,2024-06-30 12:00:00
+2024-07-01 12:00:00,2024-07-01 12:30:00,consultation,Dr. Johnson,59,1,2024-06-28 12:00:00,flu flu shot,J10,2024-06-28 12:00:00
+2024-07-01 12:30:00,2024-07-01 13:00:00,checkup,Dr. Smith,71,1,2024-06-29 12:00:00,hypertension blood pressure measurement,I10,2024-06-29 12:00:00
+2024-07-01 13:00:00,2024-07-01 13:30:00,followup,Dr. Johnson,45,1,2024-06-30 12:00:00,asthma inhaler prescription,J45,2024-06-30 12:00:00
+2024-07-01 13:30:00,2024-07-01 14:00:00,emergency,Dr. Johnson,51,1,2024-06-28 12:00:00,migraine pain relief,G43,2024-06-28 12:00:00
+2024-07-01 14:00:00,2024-07-01 14:30:00,checkup,Dr. Johnson,74,0,2024-06-29 12:00:00,diabetes blood test,E11,2024-06-29 12:00:00
+2024-07-01 14:30:00,2024-07-01 15:00:00,checkup,Dr. Lee,20,1,2024-06-30 12:00:00,flu flu shot,J10,2024-06-30 12:00:00
+2024-07-01 15:00:00,2024-07-01 15:30:00,checkup,Dr. Johnson,28,0,2024-06-28 12:00:00,hypertension blood pressure measurement,I10,2024-06-28 12:00:00
+2024-07-01 15:30:00,2024-07-01 16:00:00,emergency,Dr. Smith,33,0,2024-06-29 12:00:00,asthma inhaler prescription,J45,2024-06-29 12:00:00
+2024-07-01 16:00:00,2024-07-01 16:30:00,followup,Dr. Johnson,77,0,2024-06-30 12:00:00,migraine pain relief,G43,2024-06-30 12:00:00
+2024-07-01 16:30:00,2024-07-01 17:00:00,emergency,Dr. Johnson,72,1,2024-06-28 12:00:00,diabetes blood test,E11,2024-06-28 12:00:00
+2024-07-01 17:00:00,2024-07-01 17:30:00,checkup,Dr. Lee,74,1,2024-06-29 12:00:00,flu flu shot,J10,2024-06-29 12:00:00
+2024-07-01 17:30:00,2024-07-01 18:00:00,consultation,Dr. Smith,20,0,2024-06-30 12:00:00,hypertension blood pressure measurement,I10,2024-06-30 12:00:00
+2024-07-01 18:00:00,2024-07-01 18:30:00,followup,Dr. Smith,23,0,2024-06-28 12:00:00,asthma inhaler prescription,J45,2024-06-28 12:00:00
+2024-07-01 18:30:00,2024-07-01 19:00:00,emergency,Dr. Lee,41,0,2024-06-29 12:00:00,migraine pain relief,G43,2024-06-29 12:00:00
